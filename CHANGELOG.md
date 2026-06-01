@@ -1,3 +1,8 @@
+#### v1.4.2
+
+* Enhancements
+  * Upgraded rubyzip, tilt, nokogiri, rake and bundler
+
 #### v1.4.1
 
 * Bug Fixes
